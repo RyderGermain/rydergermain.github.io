@@ -6,7 +6,7 @@
   "start_url": "/?source=pwa",
   "icons": [
       {
-          "src": "apple-touch-icon.png",
+          "src": "icon.png",
           "sizes": "any",
           "type": "image/png",
           "purpose": "any"
