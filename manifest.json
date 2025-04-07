@@ -1,0 +1,17 @@
+{
+  "short_name": "PWA App",
+  "name": "A PWA test idk yes more text here",
+  "display": "standalone",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "icons": [
+      {
+          "src": "apple-touch-icon.png",
+          "sizes": "any",
+          "type": "image/png",
+          "purpose": "any"
+      }
+  ]
+}
+
+  
