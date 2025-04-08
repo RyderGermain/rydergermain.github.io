@@ -1,0 +1,37 @@
+<head>
+	<style>
+		#canvas {
+  width: 100%;
+  border: 1px solid black;
+ }
+ button {
+	 width:100px;
+	 height: 60px;
+	 margin-bottom: 5px;
+ }
+ .noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Safari */
+	 -khtml-user-select: none; /* Konqueror HTML */
+	   -moz-user-select: none; /* Firefox */
+		-ms-user-select: none; /* Internet Explorer/Edge */
+			user-select: none; /* Non-prefixed version, currently
+								  supported by Chrome and Opera */
+}
+	</style>
+	<script type="text/javascript" src="play.js"></script>
+</head>
+<body class="noselect">
+<canvas class="noselect"id="canvas" width="600" height="400">
+  Your browser does not support the HTML5 canvas tag.
+</canvas>
+<br / class="noselect"><br />
+<div class="noselect" align="center">
+	<button class="noselect" id="up">↑</button><br />
+	<button class="noselect" id="left">←</button>
+	<button class="noselect" id="down">↓</button>
+	<button class="noselect" id="right">→</button>
+</div>
+	<button onclick="document.location='index.html'">Menu</button>
+	<button id="pause">Pause</button>
+</body>
