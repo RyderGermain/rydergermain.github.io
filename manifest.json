@@ -1,6 +1,6 @@
 {
-  "short_name": "PWA App",
-  "name": "A PWA test idk yes more text here",
+  "short_name": "Ryder App",
+  "name": "Ryder Germain's PWA application",
   "display": "standalone",
   "id": "/?source=pwa",
   "start_url": "/?source=pwa",
